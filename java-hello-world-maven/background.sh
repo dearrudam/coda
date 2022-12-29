@@ -16,7 +16,7 @@ sdk install java 19.0.1-oracle
 sdk install maven
 
 cd /tmp
-git clone https://github.com/tanquetav/coda.git
-cp -r coda/recursion ~/
+git clone https://github.com/dearrudam/coda.git
+cp -r java-hello-world-maven ~/
 
 touch /tmp/finished
