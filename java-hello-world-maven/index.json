@@ -1,9 +1,6 @@
 {
   "title": "Java - Hello World with Maven",
   "description": "This is the \"hello world\" with Maven",
-  "backend": {
-    "imageid": "ubuntu20.04"
-  },
   "details": {
     "intro": {
       "text": "intro.md",
@@ -15,5 +12,11 @@
         "text": "step1.md"
       }
     ]
+  },
+  "backend": {
+    "imageid": "ubuntu20.04"
+  },
+  "interface": {
+    "layout": "ide"
   }
 }
