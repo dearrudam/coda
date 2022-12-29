@@ -2,7 +2,7 @@
 
 `source "/root/.sdkman/bin/sdkman-init.sh"`{{exec}}
 
-`cd hello-world`{{exec}}
+`cd java-hello-world-maven`{{exec}}
 
 ### Let's compile the project:
 
