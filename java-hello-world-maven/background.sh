@@ -17,6 +17,6 @@ sdk install maven
 
 cd /tmp
 git clone https://github.com/dearrudam/coda.git
-cp -r java-hello-world-maven ~/
+cp -r coda/java-hello-world-maven ~/
 
 touch /tmp/finished
